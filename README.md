@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kshitiz
 - 👀 I’m interested in building Software 
-- 🌱 I’m currently learning MERN stck
+- 🌱 I’m currently learning MERN stack
 - 📫 Contact me on kshitiz205@iiitmanipur.ac.in / kshitizyaksh@gmail.com / https://www.instagram.com/kshitiz.yash/ / https://www.facebook.com/kshitiz.yash/   
 
 <!---
